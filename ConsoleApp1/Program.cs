@@ -6,7 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Abdullah Veysel Çoşkun Hayalim olan yazılım işine girebilecek bir seviyede olmak için");
+            Console.WriteLine(" Abdullah Veysel Çoşkun");
+            Console.WriteLine(" Hayalim olan yazılım işine girebilecek bir seviyede olmak için bu bootcampe katıldım.");
         }
     }
 }
